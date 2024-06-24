@@ -15,8 +15,7 @@ Install required dependencies and the application that are needed and follow the
 
 ### Clonning the repository
 Run the command bellow for clonning the repository
-
-[git clone https://github.com/RegenAgri/Regenerative_Agriculture.git](https://github.com/Sami-hassan7/Combined-Radiomics-Clinical-Model)
+https://github.com/Sami-hassan7/Combined-Radiomics-Clinical-Model
 
 ### Required Libraries 
 Install the required libraries. The libraries.txt file contains all the libraries that were used for the whole project in this repository. After cloning the repository, run the following command in the root of the repository in order to install the required dependencies:
