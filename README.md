@@ -1,5 +1,5 @@
 # Combined clinical radiomics model for outcome prediction in OPC patients 
-This repository contains the contribution of five members working on a research about does The Regenrative Farming where measuring the impact of these methods on cropyield and quality of the water and soil.
+This repository contains a step by step Model development for outcome prediction of OPC patients including feature extraction, selection, train and test data and finaly building combined clinical radiomics model.
 
 ## Contributors
 Constributers of this repository: \
@@ -16,7 +16,7 @@ Install required dependencies and the application that are needed and follow the
 ### Clonning the repository
 Run the command bellow for clonning the repository
 
-git clone https://github.com/RegenAgri/Regenerative_Agriculture.git
+[git clone https://github.com/RegenAgri/Regenerative_Agriculture.git](https://github.com/Sami-hassan7/Combined-Radiomics-Clinical-Model)
 
 ### Required Libraries 
 Install the required libraries. The libraries.txt file contains all the libraries that were used for the whole project in this repository. After cloning the repository, run the following command in the root of the repository in order to install the required dependencies:
